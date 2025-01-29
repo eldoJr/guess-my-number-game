@@ -2,9 +2,6 @@
 
 Welcome to the Number Guessing Game repository! This is a simple yet fun web-based game where players guess a randomly generated number between 1 and 20. The game provides feedback on whether the guess is too high or too low and keeps track of the player's score and high score.
 
-## Preview
-![preview](./preview.png)
-
 ## How to Play
 1. Start the Game: Open the index.html file in your browser to start the game.
 
