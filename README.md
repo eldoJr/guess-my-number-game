@@ -13,6 +13,8 @@ Welcome to the Number Guessing Game repository! This is a simple yet fun web-bas
 
 5. Play Again: Click the "Again!" button to reset the game and try again.
 
+[Click here to start](https://guess-my-number-game-smoky-zeta.vercel.app/)
+
 ## Getting Started
 To get started with this project, follow these steps:
 
